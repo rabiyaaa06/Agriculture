@@ -427,16 +427,5 @@ Click the language selector in the top navigation header to toggle between <b>En
 
 ---
 
-## 👥 Contributors & Acknowledgments
-
-- Developed for **Smart India Hackathon (SIH 2026)** — Problem Statement: **SIH26033**.
-- Built with a mission to empower Indian farmers with direct market access, AI-backed price discovery, transparent escrow payments, and optimized agri-logistics.
-
-- Build by Team Sinister Six
-    - 
-    -
-    - Rabiya 
-    - Kaushlesh kumar
-    -
-    -
+    
 
